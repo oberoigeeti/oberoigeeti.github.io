@@ -1,1 +1,1 @@
-# oberoigeeti.github.io
+# oberoigeeti.github.io/notes-app
